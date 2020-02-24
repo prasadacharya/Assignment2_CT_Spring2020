@@ -647,3 +647,34 @@ namespace Assignment2_CT_Spring2020
     }
 
 }
+
+/*Self Reflection:
+Overall time taken to complete the assignment: 75 hrs.
+
+Learning from the assignment:
+1.  Learned how to properly do String, StringBuilder and Array manipulation.
+        String and StringBuilder(Append)-  Implemented in Question 2 and 4 
+        Array (Manipulation and Sort) - Implemented in Question 1,3,5(Part-2) and 8
+
+2.  Learned to manipulate loops and nested loops to get the desired sequences.
+        Loops - Implemented in all Questions
+
+3.  Developed understanding on working with List, dictionary, Stack, Hashset and how it can help to solve problems easily. 
+        Stack(Push and Pop) - Implemented in Question 2
+        Dictionary(Add, TryGetValue and ContainsKey) -  Implemented in Question 4 and 5(Part-2)
+        List(Add) - Implemented in Question 5(Part-1)
+        Hashset(Contain, Add and Remove) - Implemented in Question 6
+
+4.  Learned how recursion will help to solve big problems by breaking down into smaller versions of itself.
+        Recursion - Implemented in Question 7
+
+5.  Understood what is Time complexity and Big O Notation, how it affects the complexity of an Program and how to work around it to come to an optimal coding algorithm
+        Big O Notation - Implemented in Question 1,2,3,5 and 6
+
+6.  Challenging Problems from this assignment helped to get more knowledge and skills in C# Programming.
+
+Recommendations for the assignment for future semesters:
+1.	Overall very nice assignment and covered many interesting topics. I would recommend that more number of such practice assignments that would enhance both Programming skills and logical thinking.
+
+2.	Since the implementation of programs like Puzzle is time consuming, this assignment 2 can be provided along with Assignment 1(Basic), so that whoever completes Assignment 1 can start thinking about these Advanced programs logic and concepts. 
+*/
